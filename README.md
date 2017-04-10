@@ -1,4 +1,4 @@
-# Building Status [![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=pmpavlov&repoName=jenkins-swarm&branch=master&pipelineName=jenkins-swarm&accountName=ppavlov&type=cf-1)]( https://g.codefresh.io/repositories/pmpavlov/jenkins-swarm/builds?filter=trigger:build;branch:master;service:58eb86686aa73901008a73c9~jenkins-swarm)
+# Build Status [![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=pmpavlov&repoName=jenkins-swarm&branch=master&pipelineName=jenkins-swarm&accountName=ppavlov&type=cf-1)]( https://g.codefresh.io/repositories/pmpavlov/jenkins-swarm/builds?filter=trigger:build;branch:master;service:58eb86686aa73901008a73c9~jenkins-swarm)
 # Jenkins swarm slave
 
 [`ppavlov/jenkins-swarm`](https://hub.docker.com/r/ppavlov/jenkins-swarm/)
